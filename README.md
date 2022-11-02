@@ -86,9 +86,9 @@
 
 
 
-<!----------------------------------- GitHub Stats Section ------------------------------------>
+<!----------------------------------- GitHub Status Section ------------------------------------>
 
-<h2><i>My GitHub Stats</i></h2>
+<h2><i>My GitHub Status</i></h2>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=aarohi1234&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="nidhi" height="139" />
