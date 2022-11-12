@@ -5,7 +5,7 @@
 <h6 align="center"><i>I consider myself as a tech  enthusiastic person.</i></h6>
 
 <h5 align="left"><i>Portfolio --- </i>
-<a href="https://jaynikatandel.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+<a href="https://aarohi1234.github.io/nidhi1/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 </h5>
 
 ![age](https://img.shields.io/badge/age-22-blue&height="20")
@@ -13,7 +13,7 @@
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/nidhi1234/)
-[![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=white&color=yellow)](https://medium.com/@aarohi1234)
+
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/aarohi1234)
 
 ### Skills
@@ -35,13 +35,13 @@
 
 
   <table align="center">
-  <tr>
+<!--   <tr>
     <td align="center" width="96">
       <a href="https://www.oracle.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="https://git-scm.com/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
