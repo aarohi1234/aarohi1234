@@ -9,7 +9,7 @@
 </h5>
 
 ![age](https://img.shields.io/badge/age-22-blue&height="20")
-![living](https://img.shields.io/badge/living-Valsad,Gujarat-maroon)
+![living](https://img.shields.io/badge/living-Arrah,Bihar-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/nidhi1234/)
