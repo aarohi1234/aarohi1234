@@ -33,7 +33,7 @@
 </p>
 
 
-  <table align="center">
+<!--   <table align="center">
 
    
     <td align="center" width="96">
@@ -56,7 +56,7 @@
     </td>
     </td>
   </tr>
-</table> 
+</table>  -->
 
 ### Badges
 
