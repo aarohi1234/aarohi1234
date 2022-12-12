@@ -38,30 +38,7 @@
 <br>
 
 
-<!--   <table align="center">
 
-   
-    <td align="center" width="96">
-      <a href="https://git-scm.com/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="https://docs.microsoft.com/en-us/powershell/">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="bash" />
-      </a>
-      <br>Bash
-    </td>
-    </td>
-  </tr>
-</table>  -->
 
 ### Badges
 
@@ -71,7 +48,7 @@
 
 <a href="https://github.com/aarohi1234"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aarohi1234&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/aarohi1234"><img src="https://activity-graph.herokuapp.com/graph?username=aarohi1234&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="https://github.com/aarohi1234"><img src="https://activity-graph.herokuapp.com/graph?username=aarohi1234&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarohi1234&show_icons=true&theme=dark&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=teal&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/aarohi1234/github-readme-stats)
