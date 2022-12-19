@@ -1,8 +1,13 @@
 ![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
 
 <h1 align="center">Hi !!, I am Nidhi Kumaril</h1>
-<h5 align="center"><i>A passionate and Enthusiastic Full Stack Web developer.</i></h5>
-<h6 align="center"><i>I have passion for learning new tech stacks and sharing knowledge with others.</i></h6>
+I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
+
+- 🔭 I’m currently working on improving my skills.
+- 🌱 I’m currently learning MERN Stack
+- ⚡ My Motto: Never Stop Learning
+
+
 
 <h5 align="left"><i>Portfolio --- </i>
 <a href="https://aarohi1234.github.io/nidhi1/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
