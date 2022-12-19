@@ -4,8 +4,12 @@
 I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
 
 - 🔭 I’m currently working on improving my skills.
-- 🌱 I’m currently learning MERN Stack
-- ⚡ My Motto: Never Stop Learning
+- 🌱 I’m currently learning MERN Stack.
+- 📫 How to reach me: nidhiaarohi123@gmail.com.
+- ⚡ My Motto: Never Stop Learning.
+I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
+
+
 
 
 
