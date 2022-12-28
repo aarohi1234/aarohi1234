@@ -1,6 +1,8 @@
 ![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
 
-<h1 align="center">Hi !!, I am Nidhi Kumari</h1>
+
+<img width="100%"
+  src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=F79812;size=20&amp;lines=Hello,+I+am+Nidhi+Kumari+;Full+Stack-web+Developer...;">
 I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
 
 - 🔭 I’m currently working on improving my skills.
