@@ -16,7 +16,7 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 
 
 <h5 align="left"><i>Portfolio --- </i>
-<a href="https://aarohi1234.github.io/nidhi1/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+<a href="https://aarohi1234.github.io/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 </h5>
 
 ![age](https://img.shields.io/badge/age-22-blue&height="20")
